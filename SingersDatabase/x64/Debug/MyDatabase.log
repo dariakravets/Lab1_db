@@ -1,0 +1,4 @@
+﻿E:\VS Installation\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MyDatabase.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SingersDatabase.cpp
+E:\DownloadsE\MyDatabase-cringe--master\MyDatabase-cringe--master\MyDatabase\Singer.h(116,18): warning C4309: 'initializing': truncation of constant value
+  MyDatabase.vcxproj -> E:\DownloadsE\MyDatabase-cringe--master\MyDatabase-cringe--master\x64\Debug\SingersDataBase.exe
